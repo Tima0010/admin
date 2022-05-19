@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "330603402786",
+    "project_id": "gameroom-2ee8e",
+    "storage_bucket": "gameroom-2ee8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330603402786:android:17c0051e96c1820c405c7b",
+        "android_client_info": {
+          "package_name": "com.example.gameroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330603402786-c90abetf9k96uvt3vv9abdodftro151d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gameroom",
+            "certificate_hash": "fd23c782cbb51b0f72ba4a9cb9f99590e8812437"
+          }
+        },
+        {
+          "client_id": "330603402786-jl3032m8424qkglcf11opfk4cnraim9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPX8qMzenSObjywC-k6-Edsbzc-tVP27Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330603402786-jl3032m8424qkglcf11opfk4cnraim9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330603402786-gd8b2civ6ma7knkl1kovouhg4flajjqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameroomAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330603402786:android:2a3416cfb82116fc405c7b",
+        "android_client_info": {
+          "package_name": "com.example.gameroom_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330603402786-jl3032m8424qkglcf11opfk4cnraim9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPX8qMzenSObjywC-k6-Edsbzc-tVP27Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330603402786-jl3032m8424qkglcf11opfk4cnraim9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "330603402786-gd8b2civ6ma7knkl1kovouhg4flajjqf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameroomAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
